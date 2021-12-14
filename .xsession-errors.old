@@ -1,0 +1,80 @@
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfwm4:607): GLib-CRITICAL **: 06:56:06.428: g_str_has_prefix: assertion 'prefix != NULL' failed
+
+(xfwm4:607): xfwm4-WARNING **: 06:56:06.983: Another compositing manager is running on screen 0
+
+(xfsettingsd:622): GLib-CRITICAL **: 06:56:07.138: g_str_has_prefix: assertion 'prefix != NULL' failed
+
+(xfsettingsd:622): GLib-GObject-CRITICAL **: 06:56:07.141: g_value_get_string: assertion 'G_VALUE_HOLDS_STRING (value)' failed
+
+(xfsettingsd:622): GLib-GObject-CRITICAL **: 06:56:07.144: g_value_get_string: assertion 'G_VALUE_HOLDS_STRING (value)' failed
+
+(xfsettingsd:622): GLib-GObject-CRITICAL **: 06:56:07.150: g_value_get_string: assertion 'G_VALUE_HOLDS_STRING (value)' failed
+
+** (xfce4-power-manager:667): WARNING **: 06:56:07.867: Failed to get name owner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get owner of name 'org.freedesktop.PowerManagement': no such name
+
+
+** (xfce4-power-manager:667): WARNING **: 06:56:07.867: Failed to get name owner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get owner of name 'org.xfce.PowerManager': no such name
+
+
+** (xfce4-screensaver:660): WARNING **: 06:56:07.930: screensaver already running in this session
+
+(xfce4-power-manager:667): GLib-GObject-WARNING **: 06:56:07.943: ../glib/gobject/gsignal.c:2614: signal 'Changed' is invalid for instance '0x55e55bca0ab0' of type 'GDBusProxy'
+xfce4-panel-Message: 06:56:07.954: Plugin "(null)-7" was not found and has been removed from the configuration
+
+(xfce4-power-manager:667): xfce4-power-manager-WARNING **: 06:56:07.987: could not map keysym 1008ffa8 to keycode
+
+
+(xfce4-power-manager:667): xfce4-power-manager-WARNING **: 06:56:08.038: Unable to set the kernel brightness switch parameter to 0.
+
+(wrapper-2.0:721): GLib-GIO-CRITICAL **: 06:56:08.864: g_file_new_for_path: assertion 'path != NULL' failed
+
+(wrapper-2.0:721): GLib-GIO-CRITICAL **: 06:56:08.864: g_file_monitor_file: assertion 'G_IS_FILE (file)' failed
+
+(wrapper-2.0:721): GLib-GObject-WARNING **: 06:56:08.864: invalid (NULL) pointer instance
+
+(wrapper-2.0:721): GLib-GObject-CRITICAL **: 06:56:08.864: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(wrapper-2.0:721): Gtk-WARNING **: 06:56:08.864: Attempting to add a widget with type GtkToggleButton to a container of type XfcePanelPlugin, but the widget is already inside a container of type XfcePanelPlugin, please remove the widget from its existing container first.
+
+(wrapper-2.0:720): xfce4-power-manager-plugin-WARNING **: 06:56:08.942: Xfce4-power-manager: The panel plugin is present, so the tray icon gets disabled.
+
+(wrapper-2.0:719): Gtk-WARNING **: 06:56:08.967: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner PulseaudioButton)
+
+(wrapper-2.0:767): Gtk-WARNING **: 06:56:09.000: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner XfceArrowButton)
+
+(wrapper-2.0:721): Gtk-WARNING **: 06:56:09.028: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner GtkToggleButton)
+
+(wrapper-2.0:720): Gtk-WARNING **: 06:56:09.036: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner PowerManagerButton)
+Setting desktop wallpaper /usr/share/endeavouros/backgrounds/endeavouros-wallpaper.png for 'XFCE' ...
+Created symlink /home/test/.config/systemd/user/timers.target.wants/eos-update-notifier.timer → /home/test/.config/systemd/user/eos-update-notifier.timer.
+New '/home/test/.config/systemd/user/eos-update-notifier.service' successfully set up.
+New '/home/test/.config/systemd/user/eos-update-notifier.timer' successfully set up.
+eos-update-notifier service initialized for user 'test'.
+
+(xfce4-panel:635): Gtk-WARNING **: 06:56:15.529: Content added to the action area of a dialog using header bars
+
+(xfce4-panel:635): Gtk-WARNING **: 06:56:15.530: Content added to the action area of a dialog using header bars
+ATTENTION: default value of option mesa_glthread overridden by environment.
+
+(xfce4-session-settings:1618): Gtk-WARNING **: 06:57:42.602: Content added to the action area of a dialog using header bars
+
+(xfce4-session-settings:1618): Gtk-WARNING **: 06:57:42.603: Content added to the action area of a dialog using header bars
+
+(xfce4-keyboard-settings:1638): Gtk-WARNING **: 06:58:40.307: Content added to the action area of a dialog using header bars
+
+(xfce4-keyboard-settings:1638): Gtk-WARNING **: 06:58:40.307: Content added to the action area of a dialog using header bars
+
+(xfce4-keyboard-settings:1638): Gtk-WARNING **: 06:58:40.309: Content added to the action area of a dialog using header bars
+
+(xfce4-keyboard-settings:1638): Gtk-WARNING **: 06:58:40.309: Content added to the action area of a dialog using header bars
+
+(xfce4-power-manager:667): Gtk-WARNING **: 06:59:11.284: A floating object was finalized. This means that someone
+called g_object_unref() on an object that had only a floating
+reference; the initial floating reference is not owned by anyone
+and must be removed with g_object_ref_sink().
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

@@ -1,0 +1,13 @@
+[CLIENT] 0x2c0002b
+  [CLIENT_ID] 2d4a8faf1-8d24-45fc-9799-ae87e8453695
+  [CLIENT_LEADER] 0x2c00001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox
+  [WM_NAME] [Tutorial] Easy Setup: Endeavour XFCE + i3 tiling window manager - Lounge / EndeavourOS development - EndeavourOS — Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,51,1920,1029)
+  [GEOMETRY-MAXIMIZED] (5,81,905,998)
+  [SCREEN] 0
+  [DESK] 3
+  [FLAGS] 0x10300

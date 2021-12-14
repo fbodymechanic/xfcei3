@@ -1,0 +1,127 @@
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+** (xfce4-power-manager:1820): WARNING **: 06:59:17.847: Failed to get name owner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get owner of name 'org.xfce.PowerManager': no such name
+
+
+** (xfce4-power-manager:1820): WARNING **: 06:59:17.848: Failed to get name owner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get owner of name 'org.freedesktop.PowerManagement': no such name
+
+
+(xfce4-power-manager:1820): GLib-GObject-WARNING **: 06:59:17.889: ../glib/gobject/gsignal.c:2614: signal 'Changed' is invalid for instance '0x564bee8c1af0' of type 'GDBusProxy'
+
+(xfce4-power-manager:1820): xfce4-power-manager-WARNING **: 06:59:17.925: could not map keysym 1008ffa8 to keycode
+
+
+(xfce4-power-manager:1820): xfce4-power-manager-WARNING **: 06:59:17.957: Unable to set the kernel brightness switch parameter to 0.
+/bin/sh: line 1: dex: command not found
+/bin/sh: line 1: /home/test/.screenlayout/monitor.sh: No such file or directory
+/bin/sh: line 1: blueberry-tray: command not found
+/home/test/.gtkrc-2.0:4: Unable to find include file: "~/.gtkrc-2.0.mine"
+Cannot register authentication agent: GDBus.Error:org.freedesktop.PolicyKit1.Error.Failed: An authentication agent already exists for the given subject
+/home/test/.gtkrc-2.0:4: Unable to find include file: "~/.gtkrc-2.0.mine"
+
+** (xfce4-screensaver:1854): WARNING **: 06:59:18.715: screensaver already running in this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+
+(xfsettingsd:1807): xfconf-WARNING **: 06:59:19.241: Failed to set property "xfwm4::/general/workspace_count": Operation was cancelled
+xfsettingsd: No window manager registered on screen 0.
+xfce4-panel: No window manager registered on screen 0. To start the panel without this check, run with --disable-wm-check.
+
+(wrapper-2.0:2430): GLib-GIO-CRITICAL **: 06:59:23.192: g_file_new_for_path: assertion 'path != NULL' failed
+
+(wrapper-2.0:2430): GLib-GIO-CRITICAL **: 06:59:23.192: g_file_monitor_file: assertion 'G_IS_FILE (file)' failed
+
+(wrapper-2.0:2430): GLib-GObject-WARNING **: 06:59:23.192: invalid (NULL) pointer instance
+
+(wrapper-2.0:2430): GLib-GObject-CRITICAL **: 06:59:23.192: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(wrapper-2.0:2430): Gtk-WARNING **: 06:59:23.192: Attempting to add a widget with type GtkToggleButton to a container of type XfcePanelPlugin, but the widget is already inside a container of type XfcePanelPlugin, please remove the widget from its existing container first.
+
+** (wrapper-2.0:2428): WARNING **: 06:59:23.227: Binding 'XF86AudioLowerVolume' failed!
+
+(wrapper-2.0:2428): pulseaudio-plugin-WARNING **: 06:59:23.228: Could not have grabbed volume control keys. Is another volume control application (xfce4-volumed) running?
+
+** (wrapper-2.0:2428): WARNING **: 06:59:23.228: Binding 'XF86AudioPlay' failed!
+
+(wrapper-2.0:2428): pulseaudio-plugin-WARNING **: 06:59:23.228: Could not have grabbed multimedia control keys.
+
+(wrapper-2.0:2430): Gtk-WARNING **: 06:59:23.324: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner GtkToggleButton)
+
+(wrapper-2.0:2429): Gtk-WARNING **: 06:59:23.329: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner PowerManagerButton)
+
+(wrapper-2.0:2428): Gtk-WARNING **: 06:59:23.345: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner PulseaudioButton)
+
+(nm-applet:1908): Gdk-CRITICAL **: 07:02:33.350: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(xfce4-screenshooter:8819): Gtk-WARNING **: 07:06:42.062: Content added to the action area of a dialog using header bars
+
+(xfce4-screenshooter:8819): Gtk-WARNING **: 07:06:42.062: Content added to the action area of a dialog using header bars
+
+(xfce4-screenshooter:8819): Gtk-WARNING **: 07:06:42.062: Content added to the action area of a dialog using header bars
+[libi3] ../i3-4.20.1/libi3/font.c Using Pango font Noto Sans, size 10
+[libi3] ../i3-4.20.1/i3-nagbar/main.c Found current focus at x = 965 / y = 11.
+
+** (xed:9517): WARNING **: 07:40:13.756: Error loading plugin: libvoikko.so.1: cannot open shared object file: No such file or directory
+
+
+** (xed:9517): WARNING **: 07:40:13.757: Error loading plugin: libhunspell-1.7.so.0: cannot open shared object file: No such file or directory
+
+
+** (xed:9517): WARNING **: 07:40:13.758: Error loading plugin: libaspell.so.15: cannot open shared object file: No such file or directory
+
+
+** (xed:9517): WARNING **: 07:40:13.758: Error loading plugin: libhspell.so.0: cannot open shared object file: No such file or directory
+
+
+** (xed:9517): WARNING **: 07:40:13.759: Error loading plugin: libnuspell.so.5: cannot open shared object file: No such file or directory
+
+
+** (xed:9517): WARNING **: 07:40:13.764: Error loading plugin: libvoikko.so.1: cannot open shared object file: No such file or directory
+
+
+** (xed:9517): WARNING **: 07:40:13.764: Error loading plugin: libhunspell-1.7.so.0: cannot open shared object file: No such file or directory
+
+
+** (xed:9517): WARNING **: 07:40:13.764: Error loading plugin: libaspell.so.15: cannot open shared object file: No such file or directory
+
+
+** (xed:9517): WARNING **: 07:40:13.764: Error loading plugin: libhspell.so.0: cannot open shared object file: No such file or directory
+
+
+** (xed:9517): WARNING **: 07:40:13.764: Error loading plugin: libnuspell.so.5: cannot open shared object file: No such file or directory
+
+
+(xed:9517): Gtk-WARNING **: 07:40:26.439: Calling org.xfce.Session.Manager.Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such method “Inhibit”
+
+(xfce4-power-manager:1820): GLib-CRITICAL **: 07:53:11.019: Source ID 281 was not found when attempting to remove it
+
+(xfce4-power-manager:1820): GLib-CRITICAL **: 07:53:13.042: Source ID 289 was not found when attempting to remove it
+
+** (xed:9736): WARNING **: 07:56:16.711: Error loading plugin: libvoikko.so.1: cannot open shared object file: No such file or directory
+
+
+** (xed:9736): WARNING **: 07:56:16.711: Error loading plugin: libhunspell-1.7.so.0: cannot open shared object file: No such file or directory
+
+
+** (xed:9736): WARNING **: 07:56:16.711: Error loading plugin: libaspell.so.15: cannot open shared object file: No such file or directory
+
+
+** (xed:9736): WARNING **: 07:56:16.711: Error loading plugin: libhspell.so.0: cannot open shared object file: No such file or directory
+
+
+** (xed:9736): WARNING **: 07:56:16.711: Error loading plugin: libnuspell.so.5: cannot open shared object file: No such file or directory
+
+
+** (xed:9736): WARNING **: 07:56:16.714: Error loading plugin: libvoikko.so.1: cannot open shared object file: No such file or directory
+
+
+** (xed:9736): WARNING **: 07:56:16.714: Error loading plugin: libhunspell-1.7.so.0: cannot open shared object file: No such file or directory
+
+
+** (xed:9736): WARNING **: 07:56:16.714: Error loading plugin: libaspell.so.15: cannot open shared object file: No such file or directory
+
+
+** (xed:9736): WARNING **: 07:56:16.714: Error loading plugin: libhspell.so.0: cannot open shared object file: No such file or directory
+
+
+** (xed:9736): WARNING **: 07:56:16.715: Error loading plugin: libnuspell.so.5: cannot open shared object file: No such file or directory
+
